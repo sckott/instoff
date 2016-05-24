@@ -1,0 +1,11 @@
+Package: instoff
+Type: Package
+Title: Install packages when offline
+Description: Install packages when offline.
+Version: 0.0.1.9000
+Authors@R: person("Scott", "Chamberlain", role = c("aut", "cre"),
+    email = "myrmecocystus@gmail.com")
+License: MIT + file LICENSE
+URL: https://github.com/ropenscilabs/instoff
+BugReports: https://github.com/ropenscilabs/instoff/issues
+RoxygenNote: 5.0.1
